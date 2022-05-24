@@ -1,3 +1,4 @@
+![](https://github.com/EthanBright/EthanBright/blob/main/ImageFolder/githubHeaderGif.gif)
 ### Hi there 👋
 
 <!--
