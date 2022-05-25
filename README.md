@@ -5,7 +5,7 @@
  
 <p align="center">
   <a href="https://codingbrightwebs.com" target="_blank">
-  <img src=https://img.shields.io/static/v1?label=&message=WEBSITE&color=lightgrey&style=plastic&logo=react&logo-color=white alt=website style="margin-bottom: 5px;" />
+  <img src=https://img.shields.io/static/v1?label=&message=website&color=grey&style=plastic&logo=react&logo-color=white alt=website style="margin-bottom: 5px;" />
   </a>
   <a href="https://github.com/EthanBright" target="_blank">
   <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=plastic&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
