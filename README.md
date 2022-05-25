@@ -1,6 +1,3 @@
-
-
-### Header  
 ![Ethan Bright header](https://github.com/EthanBright/EthanBright/blob/main/ImageFolder/githubHeaderGif.gif)  
   
 
