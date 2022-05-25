@@ -4,18 +4,19 @@
 ![Ethan Bright header](https://github.com/EthanBright/EthanBright/blob/main/ImageFolder/githubHeaderGif.gif)  
   
 
-## Hi there 👋, I'm Ethan Bright.  
+<h1 align="center"> Hi there 👋, I'm Ethan Bright. <h1>
   
-
+<p align="center">
 <a href="https://github.com/EthanBright" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
 </a>
 <a href="https://twitter.com/lEthanBright" target="_blank">
 <img src=https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin-bottom: 5px;" />
 </a>
-<a href="https://linkedin.com/in/iamrishavanand" target="_blank">
+<a href="https://linkedin.com/in/ethan-bright" target="_blank">
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
-</a>  
+</a>
+</p>
   
 
 
@@ -27,7 +28,7 @@
 <br/>  
 
 
-## Rapidfire  
+## About  
 <table><tr><td valign="top" width="50%">
 
 - 🔭 I’m currently working on Trucker Review.(coming soon)  
