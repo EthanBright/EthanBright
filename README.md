@@ -1,7 +1,4 @@
 ![Ethan Bright header](https://github.com/EthanBright/EthanBright/blob/main/ImageFolder/githubHeaderGif.gif)  
-  
-
-<h1 align="center"> Hi there 👋, I'm Ethan Bright. <h1>
  
 <p align="center">
   <a href="https://codingbrightwebs.com" target="_blank">
