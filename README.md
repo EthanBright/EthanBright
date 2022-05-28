@@ -17,7 +17,7 @@
     <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=plastic&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
   </a>
   <a href="https://angel.co/u/ethan-bright" target="_blank">
-    <img src=https://img.shields.io/static/v1?label=&message=angellist&color=grey&style=plastic&logo=react&logo-color=white alt=angellist style="margin-bottom: 5px;"       />
+    <img src=https://img.shields.io/static/v1?label=&message=angel-list&color=23555f&style=plastic&logo=angellist&logo-color=white alt=angellist style="margin-bottom: 5px;"       />
   </a>
 </p>
   
