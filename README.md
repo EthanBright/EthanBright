@@ -5,16 +5,19 @@
  
 <p align="center">
   <a href="https://codingbrightwebs.com" target="_blank">
-  <img src=https://img.shields.io/static/v1?label=&message=website&color=grey&style=plastic&logo=react&logo-color=white alt=website style="margin-bottom: 5px;" />
+    <img src=https://img.shields.io/static/v1?label=&message=website&color=grey&style=plastic&logo=react&logo-color=white alt=website style="margin-bottom: 5px;" />
   </a>
   <a href="https://github.com/EthanBright" target="_blank">
-  <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=plastic&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
+    <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=plastic&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
   </a>
   <a href="https://twitter.com/lEthanBright" target="_blank">
-  <img src=https://img.shields.io/badge/twitter-%2300acee.svg?&style=plastic&logo=twitter&logoColor=white alt=twitter style="margin-bottom: 5px;" />
+    <img src=https://img.shields.io/badge/twitter-%2300acee.svg?&style=plastic&logo=twitter&logoColor=white alt=twitter style="margin-bottom: 5px;" />
   </a>
   <a href="https://linkedin.com/in/ethan-bright" target="_blank">
-  <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=plastic&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
+    <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=plastic&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
+  </a>
+  <a href="https://angel.co/u/ethan-bright" target="_blank">
+    <img src=https://img.shields.io/static/v1?label=&message=angellist&color=grey&style=plastic&logo=react&logo-color=white alt=angellist style="margin-bottom: 5px;"       />
   </a>
 </p>
   
